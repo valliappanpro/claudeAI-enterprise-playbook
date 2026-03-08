@@ -204,7 +204,7 @@ If this playbook helps your AI program, give it a ⭐ — it helps others discov
 
 <div align="center">
 
-*Built with ❤️ by an AI practitioner who believes enterprise AI should be measured, methodical, and impactful.*
+*Built with ❤️ by an AI practitioner - Valliappan who believes enterprise AI should be measured, methodical, and impactful.*
 
 **Claude Enterprise Playbook** — From prototype to production, one pattern at a time.
 
