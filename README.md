@@ -183,7 +183,7 @@ Contributions are welcome! Whether it's a new pattern, a correction, or an addit
 
 If you find this playbook useful or want to discuss enterprise AI strategy:
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/valliappan617/
 - **GitHub:** https://github.com/valliappanpro
 - **Email:** valliappanpro@gmail.com
 
