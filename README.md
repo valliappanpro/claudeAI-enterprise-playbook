@@ -3,7 +3,7 @@ Enterprise patterns for deploying Claude AI at scale — prompt engineering, Cla
 
 <div align="center">
 
-# 🚀 Claude Enterprise Playbook
+# 🚀 Claude AI Enterprise Playbook
 
 **Production-grade patterns for deploying Claude AI across enterprise consulting and healthcare operations**
 
